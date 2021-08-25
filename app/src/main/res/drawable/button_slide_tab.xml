@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:color="@color/color_cacaca"
+    tools:ignore="NewApi"> <!-- Ripple Effect 색상 -->
+
+    <!-- 배경색 -->
+    <item android:id="@android:id/background"
+        android:color="@android:color/white">
+        <shape android:shape="rectangle">
+            <solid android:color="@android:color/white"/>
+        </shape>
+    </item>
+
+</ripple>

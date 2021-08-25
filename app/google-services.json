@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "176783683880",
+    "project_id": "allmakerpartners",
+    "storage_bucket": "allmakerpartners.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176783683880:android:fc0f594a36b32413cde01d",
+        "android_client_info": {
+          "package_name": "allmaker_partners.adamstore.co.kr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176783683880-jbb05irli8po23nhia178d7le8clto8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvu6HEDVVrm_3db0y211YS2ylPhdsXj04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176783683880-jbb05irli8po23nhia178d7le8clto8d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

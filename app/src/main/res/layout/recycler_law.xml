@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button_slide_tab"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/tv_title"
+            android:textSize="16dp"
+            android:padding="16dp"
+            android:textColor="@color/color_555555"
+            android:drawablePadding="8dp"
+            android:drawableRight="@drawable/btn_view_07"/>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/pop_tit_line"
+            android:layout_marginRight="16dp"
+            android:layout_marginLeft="16dp"/>
+    </LinearLayout>
+</layout>
